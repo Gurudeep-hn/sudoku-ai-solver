@@ -34,9 +34,9 @@ This project implements a sophisticated two-stage AI system that can **read and 
 
 | Task | Model | Accuracy | Dataset Size |
 |------|-------|----------|--------------|
-| **Digit Recognition** | CNN | **85%+** | 50,000 training images |
-| **Puzzle Solving** | LSTM | **80%+** | 50,000 puzzle pairs |
-| **End-to-End** | Combined | **80%+** | 10,000 test cases |
+| **Digit Recognition** | CNN | **99%** | 50,000 training images |
+| **Puzzle Solving** | LSTM | **85%+** | 50,000 puzzle pairs |
+| **End-to-End** | Combined | **90%+** | 10,000 test cases |
 
 
 ## 🔬 Technical Implementation
@@ -101,10 +101,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *AI/ML Engineer | Master's Student in Artificial Intelligence*
 
 - 🎓 Technical University Würzburg-Schweinfurt, Germany
-- 💼 Working Student at ZMI GmbH  
 - 🔗 [LinkedIn](https://linkedin.com/in/gurudeephn)
 - 📧 [Email](mailto:gurudeep409@gmail.com)
-- 🌐 [Portfolio](https://gurudeep-hn.github.io)
 
 ---
 
