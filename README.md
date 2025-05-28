@@ -35,7 +35,7 @@ This project implements a sophisticated two-stage AI system that can **read and 
 | Task | Model | Accuracy | Dataset Size |
 |------|-------|----------|--------------|
 | **Digit Recognition** | CNN | **99%** | 50,000 training images |
-| **Puzzle Solving** | LSTM | **85%+** | 50,000 puzzle pairs |
+| **Puzzle Solving** | LSTM | **85%** | 50,000 puzzle pairs |
 | **End-to-End** | Combined | **90%+** | 10,000 test cases |
 
 
