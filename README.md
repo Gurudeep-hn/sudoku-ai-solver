@@ -82,6 +82,10 @@ This project implements a sophisticated two-stage AI system that can **read and 
 | **Data Science** | NumPy, Data Preprocessing, Model Evaluation |
 | **Development** | Python, Jupyter Notebooks, Git |
 
+## 🛠️ Datasets Used
+**Task 1**: https://drive.google.com/drive/folders/1iyQDn_kE_QIgGvtxMRcBVqf_Gcxe9Pua?usp=drive_link
+**Task 2**: https://drive.google.com/drive/folders/16TmAAWODiRtSCQ32iFRT7GS2TO8nCJOg?usp=sharing
+
 ## 🎓 Academic Context
 
 **Course**: Artificial Neural Networks and Cognitive Models  
