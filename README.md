@@ -84,6 +84,7 @@ This project implements a sophisticated two-stage AI system that can **read and 
 
 ## 🛠️ Datasets Used
 **Task 1**: https://drive.google.com/drive/folders/1iyQDn_kE_QIgGvtxMRcBVqf_Gcxe9Pua?usp=drive_link
+
 **Task 2**: https://drive.google.com/drive/folders/16TmAAWODiRtSCQ32iFRT7GS2TO8nCJOg?usp=sharing
 
 ## 🎓 Academic Context
