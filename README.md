@@ -93,24 +93,8 @@ This project implements a sophisticated two-stage AI system that can **read and 
 **Institution**: Technical University of Applied Sciences Würzburg-Schweinfurt (THWS)  
 **Program**: Master of Science in Artificial Intelligence  
 **Year**: 2023-2024  
-**Achievement**: Individual research project with competitive evaluation  
 
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Gurudeep Haleangadi Nagesh**  
-*AI/ML Engineer | Master's Student in Artificial Intelligence*
-
-- 🎓 Technical University Würzburg-Schweinfurt, Germany
-- 🔗 [LinkedIn](https://linkedin.com/in/gurudeephn)
-- 📧 [Email](mailto:gurudeep409@gmail.com)
 
 ---
-
-⭐ **If this project helped you or inspired your work, please consider giving it a star!** ⭐
 
 *Built with ❤️ for advancing AI research and practical applications*
